@@ -1,0 +1,6 @@
+Hippo repository RESTful Webservices WAR
+
+Project to create a war for standalone deployment of Hippo repository RESTful Webservices.
+
+Includes swagger for online documentation of the APIs.
+
